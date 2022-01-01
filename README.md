@@ -1,0 +1,2 @@
+# myFirstPrg
+For educational goal
